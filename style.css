@@ -1,3 +1,4 @@
 .bg-color{background-color:#feeae9;border-radius: 10px;}.carousel-item{padding:20px;}.price{color:#FF136F;}
 .buy-now-btn{background-image: linear-gradient(to bottom,#ff589B 0%,#FF136F 100%);color:#fff;border:none;border-radius: 8px;padding:9px 25px;cursor:pointer;;}
-.container{margin-bottom:100px;}
+.container{margin-bottom:100px;}.cat1{background-color:pink;}.cat2{background-color: coral;}.cat3{background-color: darkblue;}.cat1 , .cat2 , .cat3 {color:white;padding:10px 30px;border-radius:5px;margin-top: 100px;}
+.categories img{width:100px;} .card{border:none;box-shadow: 5px 5px 10px lightgray;}.bg3-color{background-color:#feeae9;border-radius: 10px;padding:50px;} footer{text-align: center;}
